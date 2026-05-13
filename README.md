@@ -1,103 +1,96 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=180&section=header&text=jrxmod&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Minecraft+Mod+Developer+%E2%80%A2+Fabric+%E2%80%A2+Java&descSize=18&descColor=ffffffaa&descAlignY=58" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+server-side+Fabric+mods;Anticheat+%E2%80%A2+RPG+Systems+%E2%80%A2+Minigames;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=1&section=header" width="100%"/>
 </div>
 
 <br>
 
 <div align="center">
-
-[![Website](https://img.shields.io/badge/-jrxmod.netlify.app-58a6ff?style=flat-square&logo=netlify&logoColor=white)](https://jrxmod.netlify.app)&nbsp;
-[![GitHub](https://img.shields.io/badge/-jrxmod-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jrxmod)&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=jrxmod&style=flat-square&color=58a6ff&label=Profile+Views)
-
-</div>
-
----
-
-## 👤 About Me
-
-<table>
-<tr><td>🎮 Role</td><td>Minecraft Mod Developer — Server-side Fabric mods</td></tr>
-<tr><td>⚔️ Working on</td><td>Noctarise — deep RPG leveling system</td></tr>
-<tr><td>🛠️ Tools</td><td>Java · Fabric API · Mixins · Gradle · Git</td></tr>
-<tr><td>🌐 Website</td><td><a href="https://jrxmod.netlify.app">jrxmod.netlify.app</a></td></tr>
-<tr><td>💡 Fun fact</td><td>I break Minecraft to make it better</td></tr>
-</table>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-
-**⚔️ PRAXIC**
-
-[![praxic](https://github-readme-stats.vercel.app/api/pin/?username=jrxmod&repo=praxic&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/jrxmod/praxic)
-
-Server-side AntiCheat for Fabric
-
-</td>
-<td align="center" width="33%">
-
-**🌙 NOCTARISE**
-
-[![noctarise](https://github-readme-stats.vercel.app/api/pin/?username=jrxmod&repo=noctarise&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/jrxmod/noctarise)
-
-Deep RPG leveling mod for Fabric
-
-</td>
-<td align="center" width="33%">
-
-**🎲 RISKTOSS**
-
-[![RiskToss](https://github-readme-stats.vercel.app/api/pin/?username=jrxmod&repo=RiskToss&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/jrxmod/RiskToss)
-
-Coinflip & duel betting for Fabric
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,gradle,git,idea,github&theme=dark" />
-</div>
-
----
-
-## 📊 Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jrxmod&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrxmod&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=jrxmod" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jrxmod&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" height="165"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&pause=1000&color=555555&center=true&vCenter=true&width=600&lines=Minecraft+Mod+Developer+%2F+Fabric+%2F+Java" />
 </div>
 
----
-
-## 📈 Contribution Graph
+<br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jrxmod&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="95%"/>
+  <img src="https://img.shields.io/badge/PRAXIC-anticheat-ff4444?style=flat-square&labelColor=111111"/>
+  <img src="https://img.shields.io/badge/NOCTARISE-rpg-9944ff?style=flat-square&labelColor=111111"/>
+  <img src="https://img.shields.io/badge/RISKTOSS-betting-44ff88?style=flat-square&labelColor=111111"/>
 </div>
+
+<br>
+<br>
+
+<div align="center">
+
+```
+  role     →  Minecraft Mod Developer
+  stack    →  Java · Fabric API · Mixins · Gradle
+  focus    →  Server-side mods
+  site     →  jrxmod.netlify.app
+```
+
+</div>
+
+<br>
 
 ---
 
-## 🐍 Contribution Snake
+<br>
+
+<div align="center">
+
+[![praxic](https://github-readme-stats.vercel.app/api/pin/?username=jrxmod&repo=praxic&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=555555&text_color=555555)](https://github.com/jrxmod/praxic)&nbsp;
+[![noctarise](https://github-readme-stats.vercel.app/api/pin/?username=jrxmod&repo=noctarise&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=555555&text_color=555555)](https://github.com/jrxmod/noctarise)
+
+[![RiskToss](https://github-readme-stats.vercel.app/api/pin/?username=jrxmod&repo=RiskToss&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=555555&text_color=555555)](https://github.com/jrxmod/RiskToss)
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,gradle,git,idea,github&theme=dark&perline=5" />
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jrxmod&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=555555&text_color=555555&ring_color=ffffff&include_all_commits=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrxmod&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=555555" height="160"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=jrxmod&theme=github-dark-blue&hide_border=true&background=000000&stroke=222222&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=555555&dates=555555&currStreakNum=ffffff&sideNums=ffffff" height="160"/>
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jrxmod&bg_color=000000&color=555555&line=ffffff&point=ffffff&area=true&area_color=222222&hide_border=true" width="95%"/>
+</div>
+
+<br>
+
+---
+
+<br>
 
 <div align="center">
   <picture>
@@ -107,6 +100,18 @@ Coinflip & duel betting for Fabric
   </picture>
 </div>
 
+<br>
+
+---
+
+<br>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=100&section=footer" width="100%"/>
+
+[![Website](https://img.shields.io/badge/website-jrxmod.netlify.app-ffffff?style=flat-square&logo=netlify&logoColor=white&labelColor=111111)](https://jrxmod.netlify.app)&nbsp;
+[![GitHub](https://img.shields.io/badge/github-jrxmod-ffffff?style=flat-square&logo=github&logoColor=white&labelColor=111111)](https://github.com/jrxmod)&nbsp;
+![Views](https://komarev.com/ghpvc/?username=jrxmod&style=flat-square&color=555555&label=views)
+
 </div>
+
+<br>
