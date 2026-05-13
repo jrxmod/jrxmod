@@ -157,7 +157,7 @@
 ## 🌐 3D Contribution
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jrxmod/jrxmod/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%"/>
+  <img src="https://raw.githubusercontent.com/jrxmod/jrxmod/3d-output/profile-night-rainbow.svg" width="95%"/>
 </div>
 
 <br>
