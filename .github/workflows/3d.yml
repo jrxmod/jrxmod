@@ -1,0 +1,23 @@
+name: Generate 3D Contrib
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: jrxmod
+
+      - uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: main
+          folder: profile-3d-contrib
+          token: ${{ secrets.GITHUB_TOKEN }}
