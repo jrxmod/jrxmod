@@ -59,6 +59,7 @@
 </tr>
 </table>
 </div>
+
 <br>
 
 ## 🛠️ Tech Stack
@@ -92,6 +93,18 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jrxmod&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" width="95%"/>
+</div>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jrxmod/jrxmod/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jrxmod/jrxmod/output/github-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/jrxmod/jrxmod/output/github-snake-dark.svg"/>
+  </picture>
 </div>
 
 <br>
