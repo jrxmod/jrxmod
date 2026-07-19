@@ -1,105 +1,91 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=jrxmod&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%"/>
-</div>
+  <h1><b>jrxmod</b></h1>
+  <p><b>Minecraft Mod Developer · Server-side Fabric & Java · High-Performance Systems</b></p>
+  <p>
+    <i>"Good mods feel invisible. They do their job without breaking your server, your saves, or your patience."</i>
+  </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Minecraft+Mod+Developer;Server-side+Fabric+%2F+Java;Anticheat+%C2%B7+RPG+Systems+%C2%B7+Minigames" />
-</div>
+  <br>
 
-<br>
-
-<div align="center">
   <a href="https://jrxmod.netlify.app">
-    <img src="https://img.shields.io/badge/website-jrxmod.netlify.app-white?style=for-the-badge&logo=netlify&logoColor=black&labelColor=ffffff&color=000000"/>
+    <img src="https://img.shields.io/badge/Website-jrxmod.netlify.app-D97757?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/jrxmod">
-    <img src="https://img.shields.io/badge/github-jrxmod-white?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff&color=000000"/>
+  <a href="https://modrinth.com/user/jrxmod">
+    <img src="https://img.shields.io/badge/Modrinth-jrxmod-1BD96A?style=for-the-badge&logo=modrinth&logoColor=white"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=jrxmod&style=for-the-badge&color=000000&label=VIEWS"/>
+  <a href="https://www.curseforge.com/members/jrxmod/projects">
+    <img src="https://img.shields.io/badge/CurseForge-Projects-F16436?style=for-the-badge&logo=curseforge&logoColor=white"/>
+  </a>
 </div>
 
 <br>
 
 ---
 
-<br>
+## 🚀 Flagship Mods
 
-## 👤 About Me
-
-<div align="center">
-<table border="0" cellspacing="0" cellpadding="8">
-  <tr>
-    <td><b>💼 Role</b></td>
-    <td>Minecraft Mod Developer</td>
-  </tr>
-  <tr>
-    <td><b>🔧 Stack</b></td>
-    <td>Java · Fabric API · Mixins · Gradle</td>
-  </tr>
-  <tr>
-    <td><b>🌐 Website</b></td>
-    <td><a href="https://jrxmod.netlify.app">jrxmod.netlify.app</a></td>
-  </tr>
-  <tr>
-    <td><b>💡 Fun fact</b></td>
-    <td>I break Minecraft to make it better</td>
-  </tr>
-</table>
-</div>
-
-<br>
-
----
-
-<br>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jrxmod&theme=onedark&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
-</div>
-
-<br>
-
----
-
-<br>
-
-## 🚀 Featured Projects
+Three core projects built with care for **Minecraft 1.21.x Fabric** — open source, lightweight, and made to just work without client-side requirements where possible.
 
 <div align="center">
 <table>
-<tr>
-<td align="center" width="33%">
-
-**⚔️ PRAXIC**
-
-[![praxic](https://github-readme-stats.vercel.app/api/pin/?username=jrxmod&repo=praxic&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=888888)](https://github.com/jrxmod/praxic)
-
-`Server-side AntiCheat for Fabric`
-
-</td>
-<td align="center" width="33%">
-
-**🌙 NOCTARISE**
-
-[![noctarise](https://github-readme-stats.vercel.app/api/pin/?username=jrxmod&repo=noctarise&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=888888)](https://github.com/jrxmod/noctarise)
-
-`Deep RPG Leveling for Fabric`
-
-</td>
-<td align="center" width="33%">
-
-**🎲 RISKTOSS**
-
-[![RiskToss](https://github-readme-stats.vercel.app/api/pin/?username=jrxmod&repo=RiskToss&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=888888)](https://github.com/jrxmod/RiskToss)
-
-`Coinflip & Duel Betting for Fabric`
-
-</td>
-</tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>🛡️ PRAXIC</h3>
+      <p><b>Server-side AntiCheat for Fabric</b></p>
+      <br>
+      <a href="https://github.com/jrxmod/praxic">
+        <img src="https://img.shields.io/badge/Fabric-1.21.1-D97757?style=flat-square"/>
+      </a>
+      &nbsp;
+      <a href="https://modrinth.com/mod/praxic">
+        <img src="https://img.shields.io/badge/Modrinth-Beta-1BD96A?style=flat-square"/>
+      </a>
+      <br><br>
+      <p align="left">
+        Advanced anticheat for Fabric servers with <b>14 detection modules</b>, physics prediction, and lag compensation. <b>Zero client installation</b> required for players.
+      </p>
+      <br>
+      <a href="https://github.com/jrxmod/praxic"><b>Explore Repo →</b></a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🎬 Lumière Play</h3>
+      <p><b>In-game Cinema for Minecraft</b></p>
+      <br>
+      <a href="https://github.com/jrxmod/lumiereplay">
+        <img src="https://img.shields.io/badge/Fabric-1.21.1-E8C66B?style=flat-square"/>
+      </a>
+      &nbsp;
+      <a href="https://modrinth.com/mod/lumiereplay">
+        <img src="https://img.shields.io/badge/Modrinth-Beta-1BD96A?style=flat-square"/>
+      </a>
+      <br><br>
+      <p align="left">
+        Watch <b>YouTube, Twitch, and local videos</b> on a synchronized virtual screen right inside your world. Host movie nights with friends without leaving the game.
+      </p>
+      <br>
+      <a href="https://github.com/jrxmod/lumiereplay"><b>Explore Repo →</b></a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>⚖️ REVEX</h3>
+      <p><b>Graduated Punishment Addon</b></p>
+      <br>
+      <a href="https://github.com/jrxmod/revex">
+        <img src="https://img.shields.io/badge/Fabric-1.21.1-365FC0?style=flat-square"/>
+      </a>
+      &nbsp;
+      <a href="https://modrinth.com/mod/revex">
+        <img src="https://img.shields.io/badge/Modrinth-Beta-1BD96A?style=flat-square"/>
+      </a>
+      <br><br>
+      <p align="left">
+        Smart enforcement addon for <b>PRAXIC</b>. Replaces instant permabans with graduated tempbans, automatic warning escalations, and fair consequences.
+      </p>
+      <br>
+      <a href="https://github.com/jrxmod/revex"><b>Explore Repo →</b></a>
+    </td>
+  </tr>
 </table>
 </div>
 
@@ -107,73 +93,40 @@
 
 ---
 
+## 🛠️ Other Notable Projects & Libraries
+
+| Project | Description | Tech & Stack |
+| :--- | :--- | :--- |
+| **[`devkit-api`](https://github.com/jrxmod/devkit-api)** | Modular, high-performance Fabric API library for Minecraft 1.21.x server systems. | `Java` `Fabric API` `Gradle` |
+| **[`speedrunstats`](https://github.com/jrxmod/speedrunstats)** | Detailed in-game analytics, split tracking, and performance statistics for Minecraft speedrunners. | `Kotlin` `Fabric 1.21.1` |
+| **[`stakecraft`](https://github.com/jrxmod/stakecraft)** | Server-side item betting and challenge resolution mod powered by a fair, server-verified RNG engine. | `Java` `Server-side` |
+
 <br>
 
-## 🛠️ Tech Stack
+---
+
+## 💻 Tech Stack & Engineering Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,gradle,git,idea,github&theme=dark&perline=5"/>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,gradle,git,idea,github,linux&theme=dark&perline=7" alt="Tech Stack"/>
 </div>
 
 <br>
 
 ---
 
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jrxmod&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=888888&ring_color=ffffff&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrxmod&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jrxmod&theme=github-dark-blue&hide_border=true&background=000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=888888&currStreakNum=ffffff&sideNums=ffffff" height="165"/>
-</div>
-
-<br>
-
----
-
-<br>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jrxmod&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true" width="95%"/>
-</div>
-
-<br>
-
----
-
-<br>
-
-## 🌐 3D Contribution
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jrxmod/jrxmod/3d-output/profile-night-rainbow.svg" width="95%"/>
-</div>
-
-<br>
-
----
-
-<br>
-
-## 🐍 Contribution Snake
+## 📈 Open Source Activity
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jrxmod/jrxmod/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jrxmod/jrxmod/output/github-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/jrxmod/jrxmod/output/github-snake-dark.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/jrxmod/jrxmod/output/github-snake-dark.svg" width="85%"/>
   </picture>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>
+  <small>Found a bug or have a feature idea? Open an issue or PR on any project repo above — contributions and feedback are always welcome.</small>
 </div>
