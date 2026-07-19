@@ -39,10 +39,6 @@
     <td>Java · Fabric API · Mixins · Gradle</td>
   </tr>
   <tr>
-    <td><b>🚧 Working on</b></td>
-    <td>Noctarise — Deep RPG leveling system</td>
-  </tr>
-  <tr>
     <td><b>🌐 Website</b></td>
     <td><a href="https://jrxmod.netlify.app">jrxmod.netlify.app</a></td>
   </tr>
